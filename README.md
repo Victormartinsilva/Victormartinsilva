@@ -47,6 +47,12 @@ Portfólio pessoal criado com **Astro + Tailwind CSS**, apresentando projetos de
 
 ---
 
+## 🐍 Minhas Contribuições Virando um Jogo  
+
+![Snake animation](https://raw.githubusercontent.com/Victormartinsilva/Victormartinsilva/output/github-contribution-grid-snake-dark.svg)
+
+---
+
 ## 🌐 Onde me encontrar  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-martins-da-silva-a111ba190/)

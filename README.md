@@ -7,7 +7,7 @@
 Transformando dados em insights estratégicos e decisões inteligentes.  
 Apaixonado por tecnologia, engenharia de dados e visualizações que contam histórias.  
 
----
+
 
 ## 🚀 Projetos em Destaque  
 
@@ -17,14 +17,14 @@ Inclui métricas de desempenho, estatísticas dos times e visualizações dinâm
 
 > 🧩 *Stack:* Python · Pandas · Plotly · Streamlit  
 
----
+
 
 ### 🧠 [Data Engineering Portfolio](https://github.com/Victormartinsilva/data-engineering-portfolio)
 Portfólio pessoal desenvolvido em **Astro + Tailwind CSS**, apresentando projetos de engenharia de dados com design limpo e foco técnico.  
 
 > 🧩 *Stack:* Astro · TailwindCSS · HTML · GitHub Pages  
 
----
+
 
 ## 🧰 Tecnologias & Ferramentas  
 
@@ -36,7 +36,7 @@ Portfólio pessoal desenvolvido em **Astro + Tailwind CSS**, apresentando projet
 | **ETL & Automação** | Pandas · Airflow · n8n |
 | **Versionamento** | Git · GitHub |
 
----
+
 
 ## 📊 Estatísticas do GitHub  
 
@@ -45,7 +45,6 @@ Portfólio pessoal desenvolvido em **Astro + Tailwind CSS**, apresentando projet
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victormartinsilva&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
 </div>
 
----
 
 ## 🐍 Minhas Contribuições Virando um Jogo  
 
@@ -56,7 +55,7 @@ Portfólio pessoal desenvolvido em **Astro + Tailwind CSS**, apresentando projet
     <img alt="Animação da cobrinha comendo commits" src="https://raw.githubusercontent.com/Victormartinsilva/Victormartinsilva/output/github-contribution-grid-snake-custom.svg" width="80%">
   </picture>
 </p>
----
+
 
 ## 🌐 Onde me encontrar  
 
@@ -72,10 +71,8 @@ Portfólio pessoal desenvolvido em **Astro + Tailwind CSS**, apresentando projet
   </a>
 </p>
 
----
 
 ⭐ *“Dados são o novo petróleo — mas o valor está em quem sabe refiná-los.”*  
 
----
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:24243e,100:302b63,200:0f0c29&height=60&section=footer"/>

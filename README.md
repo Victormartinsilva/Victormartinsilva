@@ -1,7 +1,7 @@
 <!-- Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63,200:24243e&height=100&section=header&text=Victor%20Martins%20da%20Silva&fontColor=ffffff&fontSize=28&animation=fadeIn&fontAlignY=55"/>
 
-# 👋 Olá, eu sou o Victor Martins da Silva  
+<h1 align="center">👋 Olá, eu sou o Victor Martins da Silva</h1>
 
 🎯 **Analista de Dados | Python | Power BI | Microsoft Fabric**  
 Transformando dados em insights estratégicos e decisões inteligentes.  
@@ -41,8 +41,8 @@ Portfólio pessoal desenvolvido em **Astro + Tailwind CSS**, apresentando projet
 ## 📊 Estatísticas do GitHub  
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Victormartinsilva&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victormartinsilva&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Victormartinsilva&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victormartinsilva&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
 </div>
 
 ---
@@ -53,9 +53,11 @@ Portfólio pessoal desenvolvido em **Astro + Tailwind CSS**, apresentando projet
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Victormartinsilva/Victormartinsilva/output/github-contribution-grid-snake-custom.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Victormartinsilva/Victormartinsilva/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Victormartinsilva/Victormartinsilva/output/github-contribution-grid-snake-custom.svg">
+    <img alt="Animação da cobrinha comendo commits" src="https://raw.githubusercontent.com/Victormartinsilva/Victormartinsilva/output/github-contribution-grid-snake-custom.svg" width="80%">
   </picture>
 </p>
+
+> 💡 *Agora com uma cobrinha neon verde mais visível no modo escuro!*
 
 ---
 
@@ -75,7 +77,7 @@ Portfólio pessoal desenvolvido em **Astro + Tailwind CSS**, apresentando projet
 
 ---
 
-⭐ *“Dados são o novo petróleo, mas o valor está em quem sabe refiná-los.”*  
+⭐ *“Dados são o novo petróleo — mas o valor está em quem sabe refiná-los.”*  
 
 ---
 

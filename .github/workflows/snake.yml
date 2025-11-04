@@ -3,7 +3,7 @@ name: Generate Snake Game
 on:
   schedule:
     - cron: "0 0 * * *" # Atualiza diariamente à meia-noite (UTC)
-  workflow_dispatch: # Permite rodar manualmente
+  workflow_dispatch:     # Permite rodar manualmente
   push:
     branches:
       - main
@@ -14,19 +14,23 @@ jobs:
     steps:
       - name: Checkout do repositório
         uses: actions/checkout@v4
+        with:
+          persist-credentials: true
 
-      - name: Gerar animação do Snake Game com tema personalizado
+      - name: Gerar animações do Snake Game (custom + padrão)
         uses: Platane/snk@v3
         with:
-          github_user_name: Victormartinsilva
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake-custom.svg
-          # Paleta de cores personalizada: fundo escuro, cobrinha neon e comida em vermelho
-          palette: |
-            background: "#0d1117"
-            snake: "#39ff14"
-            apple: "#ff4b4b"
-            stroke: "#39ff14"
+            # versão custom - cores codificadas em URL (use %23 no lugar de #)
+            dist/github-contribution-grid-snake-custom.svg?background=%230d1117&color_snake=%2339ff14&color_apple=%23ff4b4b&stroke=%2339ff14
+            # versão padrão (light)
+            dist/github-contribution-grid-snake.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Listar arquivos gerados (debug)
+        run: ls -la dist || true
 
       - name: Publicar no branch output
         uses: crazy-max/ghaction-github-pages@v4

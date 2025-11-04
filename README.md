@@ -56,9 +56,6 @@ Portfólio pessoal desenvolvido em **Astro + Tailwind CSS**, apresentando projet
     <img alt="Animação da cobrinha comendo commits" src="https://raw.githubusercontent.com/Victormartinsilva/Victormartinsilva/output/github-contribution-grid-snake-custom.svg" width="80%">
   </picture>
 </p>
-
-> 💡 *Agora com uma cobrinha neon verde mais visível no modo escuro!*
-
 ---
 
 ## 🌐 Onde me encontrar  

@@ -31,11 +31,9 @@ Construo pipelines de dados (Bronze → Silver → Gold), dashboards e modelos d
 
 ---
 
-## Estatísticas no GitHub
+## Estatísticas
 
-<img src="https://github-readme-stats.vercel.app/api?username=Victormartinsilva&show_icons=true&theme=dark&hide_border=true" width="400" alt="GitHub stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victormartinsilva&layout=compact&theme=dark&hide_border=true" width="400" alt="Top languages" />
+Repositórios fixados abaixo. Para ver estatísticas de contribuição, acesse [meu perfil](https://github.com/Victormartinsilva).
 
 ---
 

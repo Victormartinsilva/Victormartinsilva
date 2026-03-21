@@ -12,19 +12,19 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+## Sobre mim
 
 Sou Engenheiro de Dados focado em construir **pipelines robustos e escaláveis** usando a arquitetura **Medallion (Bronze → Silver → Gold)**. Trabalho com ingestão, transformação e entrega de dados para dashboards e modelos de previsão.
 
-- 🏗️ **Arquitetura:** Medallion · Lakehouse · Data Warehouse · ETL/ELT
-- - 📊 **Visualização:** Power BI · Streamlit · Dashboards interativos
-  - - 🤖 **IA & ML:** Séries temporais · LangChain · Modelos preditivos
-    - - ☁️ **Cloud:** Microsoft Fabric · Azure Data Factory
-      - - 🌎 **Dados públicos:** IBGE · APIs governamentais brasileiras
+- **Arquitetura:** Medallion · Lakehouse · Data Warehouse · ETL/ELT
+- - **Visualização:** Power BI · Streamlit · Dashboards interativos
+  - - **IA & ML:** Series temporais · LangChain · Modelos preditivos
+    - - **Cloud:** Microsoft Fabric · Azure Data Factory
+      - - **Dados públicos:** IBGE · APIs governamentais brasileiras
        
         - ---
 
-        ## 🛠️ Tecnologias & Ferramentas
+        ## Tecnologias & Ferramentas
 
         ### Linguagens & Dados
         ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -45,25 +45,25 @@ Sou Engenheiro de Dados focado em construir **pipelines robustos e escaláveis**
         ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
         ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-        **Stack principal:** ETL · Pipelines · Medallion · Lakehouse · Warehouse · Dashboards · Previsão (séries temporais)
+        **Stack principal:** ETL · Pipelines · Medallion · Lakehouse · Warehouse · Dashboards · Previsao (series temporais)
 
         ---
 
-        ## 🚀 Projetos em destaque
+        ## Projetos em destaque
 
-        | Projeto | Descrição | Stack |
+        | Projeto | Descricao | Stack |
         |---------|-----------|-------|
-        | **[Buraco Negro Simulator](https://github.com/Victormartinsilva/buraco-negro-simulator)** | Simulador de espaço-tempo em HTML/JS + Streamlit. [▶ App](https://buraco-negro-simulator-7f3qiqmy2f9nxuphbqspc4.streamlit.app/) | Python · Streamlit · JS |
-        | **[Dashboard Brasileirão](https://github.com/Victormartinsilva/dashboard_brasileirao.py)** | Dashboard interativo com análise da Série A — métricas, estatísticas e visualizações. | Python · Streamlit |
-        | **[IntegraGov](https://github.com/Victormartinsilva/IntegraGov)** | Integração de dados públicos brasileiros (IBGE, saúde) — Data Lakehouse e dashboard Streamlit. | Python · Pandas · Streamlit |
+        | **[Buraco Negro Simulator](https://github.com/Victormartinsilva/buraco-negro-simulator)** | Simulador de espaco-tempo em HTML/JS + Streamlit. [App](https://buraco-negro-simulator-7f3qiqmy2f9nxuphbqspc4.streamlit.app/) | Python · Streamlit · JS |
+        | **[Dashboard Brasileirao](https://github.com/Victormartinsilva/dashboard_brasileirao.py)** | Dashboard interativo com analise da Serie A - metricas, estatisticas e visualizacoes. | Python · Streamlit |
+        | **[IntegraGov](https://github.com/Victormartinsilva/IntegraGov)** | Integracao de dados publicos brasileiros (IBGE, saude) - Data Lakehouse e dashboard Streamlit. | Python · Pandas · Streamlit |
         | **[Chat Bot Consulta Dados](https://github.com/Victormartinsilva/Chat_Bot_Consulta_Dados)** | Chatbot com LangChain e Pandas para consulta em linguagem natural sobre arquivos de dados. | Python · LangChain |
-        | **[Data Engineering Portfolio](https://github.com/Victormartinsilva/data-engineering-portfolio)** | Portfólio de projetos de engenharia de dados com site moderno. | Astro · Tailwind |
+        | **[Data Engineering Portfolio](https://github.com/Victormartinsilva/data-engineering-portfolio)** | Portfolio de projetos de engenharia de dados com site moderno. | Astro · Tailwind |
         | **Pipeline Medallion** | ETL Bronze → Silver → Gold (Python/pandas), preparado para Microsoft Fabric. | Python · Pandas · Fabric |
-        | **Forecasting & Analytics** | Previsão de séries temporais, métricas (MAE, RMSE), integração com camada Gold para BI. | Python · Sklearn |
+        | **Forecasting & Analytics** | Previsao de series temporais, metricas (MAE, RMSE), integracao com camada Gold para BI. | Python · Sklearn |
 
         ---
 
-        ## 📊 Estatísticas do GitHub
+        ## Estatisticas do GitHub
 
         <div align="center">
 
@@ -79,7 +79,7 @@ Sou Engenheiro de Dados focado em construir **pipelines robustos e escaláveis**
 
         ---
 
-        ## 📫 Contato
+        ## Contato
 
         <div align="center">
 
@@ -93,6 +93,6 @@ Sou Engenheiro de Dados focado em construir **pipelines robustos e escaláveis**
 
         <div align="center">
 
-        *🔄 Transformando dados brutos em pipelines confiáveis, dashboards inteligentes e decisões baseadas em previsão.*
+        *Transformando dados brutos em pipelines confiaveis, dashboards inteligentes e decisoes baseadas em previsao.*
 
         </div>

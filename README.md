@@ -53,13 +53,13 @@ Sou Engenheiro de Dados focado em construir **pipelines robustos e escaláveis**
 
         | Projeto | Descricao | Stack |
         |---------|-----------|-------|
-        | **[Buraco Negro Simulator](https://github.com/Victormartinsilva/buraco-negro-simulator)** | Simulador de espaco-tempo em HTML/JS + Streamlit. [App](https://buraco-negro-simulator-7f3qiqmy2f9nxuphbqspc4.streamlit.app/) | Python · Streamlit · JS |
-        | **[Dashboard Brasileirao](https://github.com/Victormartinsilva/dashboard_brasileirao.py)** | Dashboard interativo com analise da Serie A - metricas, estatisticas e visualizacoes. | Python · Streamlit |
+        | **[Chat Bot Governança](https://github.com/Victormartinsilva/Chat_Bot)** | Chatbot web com Flask e IA para governança de dados. | Python · Flask |
+        | **[SQL Mystery Game](https://github.com/Victormartinsilva/SQL_misterios_game)** | Jogo educativo interativo para aprender SQL: SELECT, JOIN, GROUP BY e Subqueries. | Python · SQLite |
         | **[IntegraGov](https://github.com/Victormartinsilva/IntegraGov)** | Integracao de dados publicos brasileiros (IBGE, saude) - Data Lakehouse e dashboard Streamlit. | Python · Pandas · Streamlit |
         | **[Chat Bot Consulta Dados](https://github.com/Victormartinsilva/Chat_Bot_Consulta_Dados)** | Chatbot com LangChain e Pandas para consulta em linguagem natural sobre arquivos de dados. | Python · LangChain |
         | **[Data Engineering Portfolio](https://github.com/Victormartinsilva/data-engineering-portfolio)** | Portfolio de projetos de engenharia de dados com site moderno. | Astro · Tailwind |
-        | **Pipeline Medallion** | ETL Bronze → Silver → Gold (Python/pandas), preparado para Microsoft Fabric. | Python · Pandas · Fabric |
-        | **Forecasting & Analytics** | Previsao de series temporais, metricas (MAE, RMSE), integracao com camada Gold para BI. | Python · Sklearn |
+        | **[ML Educativo Hub](https://github.com/Victormartinsilva/ml-educativo-hub)** | Hub com 6 projetos práticos de ML: Reforço, Árvore de Decisão, Redes Neurais, Transformers e DQN. | Python · Pandas · Fabric |
+        | **Power BI Responsivo](https://github.com/Victormartinsilva/aplicacao_reponsivel_painel_bi)** | Aplicação Streamlit para embed e responsividade de painéis Power BI em dispositivos móveis. | Python · Power BI |
 
         ---
 

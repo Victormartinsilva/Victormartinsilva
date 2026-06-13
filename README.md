@@ -59,7 +59,7 @@ Sou Engenheiro de Dados focado em construir **pipelines robustos e escaláveis**
         | **[Chat Bot Consulta Dados](https://github.com/Victormartinsilva/Chat_Bot_Consulta_Dados)** | Chatbot com LangChain e Pandas para consulta em linguagem natural sobre arquivos de dados. | Python · LangChain |
         | **[Data Engineering Portfolio](https://github.com/Victormartinsilva/data-engineering-portfolio)** | Portfolio de projetos de engenharia de dados com site moderno. | Astro · Tailwind |
         | **[ML Educativo Hub](https://github.com/Victormartinsilva/ml-educativo-hub)** | Hub com 6 projetos práticos de ML: Reforço, Árvore de Decisão, Redes Neurais, Transformers e DQN. | Python · Pandas · Fabric |
-        | **Power BI Responsivo](https://github.com/Victormartinsilva/aplicacao_reponsivel_painel_bi)** | Aplicação Streamlit para embed e responsividade de painéis Power BI em dispositivos móveis. | Python · Power BI |
+        | **[Power BI Responsivo](https://github.com/Victormartinsilva/aplicacao_reponsivel_painel_bi)** | Aplicação Streamlit para embed e responsividade de painéis Power BI em dispositivos móveis. | Python · Power BI |
 
         ---
 

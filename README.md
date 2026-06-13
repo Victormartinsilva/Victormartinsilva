@@ -45,7 +45,7 @@ Sou Engenheiro de Dados focado em construir **pipelines robustos e escaláveis**
         ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
         ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-        **Stack principal:** ETL · Pipelines · Medallion · Lakehouse · Warehouse · Dashboards · Previsao (series temporais)
+        **Stack principal:** ETL · Phipelines · Medallion · Lakehouse · Warehouse · Dashboards · Previsao (series temporais)
 
         ---
 

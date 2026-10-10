@@ -2,11 +2,12 @@
 
 # Victor Martins da Silva
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Engenheiro+de+Dados+%F0%9F%9A%80;ETL+%7C+Microsoft+Fabric+%7C+Power+BI;Pipelines+%E2%80%A2+Lakehouse+%E2%80%A2+Dashboards;Transformando+dados+em+decis%C3%B5es+%F0%9F%93%8A)](https://git.io/typing-svg)
+**Engenheiro de Dados** · Python · SQL · Power BI · Microsoft Fabric
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Victormartinsilva&color=58A6FF&style=flat-square&label=Visitas+ao+perfil)](https://github.com/Victormartinsilva)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-martins-da-silva-a111ba190/)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:victoreagri@gmail.com)
+Pipelines confiáveis, dashboards claros e decisões baseadas em dados.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Victor_Martins_da_Silva-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-martins-da-silva-a111ba190/)
+[![E-mail](https://img.shields.io/badge/E--mail-victoreagri@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victoreagri@gmail.com)
 
 </div>
 
@@ -14,85 +15,52 @@
 
 ## Sobre mim
 
-Sou Engenheiro de Dados focado em construir **pipelines robustos e escaláveis** usando a arquitetura **Medallion (Bronze → Silver → Gold)**. Trabalho com ingestão, transformação e entrega de dados para dashboards e modelos de previsão.
+Construo **pipelines de dados** no padrão **Medallion (Bronze → Silver → Gold)**, da ingestão até a entrega em dashboards. Meu trabalho vai de integrar fontes públicas e corporativas a publicar painéis que gestores conseguem usar.
 
 - **Arquitetura:** Medallion · Lakehouse · Data Warehouse · ETL/ELT
-- - **Visualização:** Power BI · Streamlit · Dashboards interativos
-  - - **IA & ML:** Series temporais · LangChain · Modelos preditivos
-    - - **Cloud:** Microsoft Fabric · Azure Data Factory
-      - - **Dados públicos:** IBGE · APIs governamentais brasileiras
-       
-        - ---
+- **Plataformas:** Microsoft Fabric · Azure Data Factory · Power BI
+- **Transformação:** SQL · dbt · DuckDB · Pandas
+- **Aplicações e IA:** Streamlit · LangChain · Machine Learning
+- **Dados públicos:** IBGE · DATASUS · INEP · Portal da Transparência
 
-        ## Tecnologias & Ferramentas
+## Projetos em destaque
 
-        ### Linguagens & Dados
-        ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-        ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-        ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-        ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+| Projeto | O que resolve | Stack |
+|---|---|---|
+| **[World Cup 2026 Analytics](https://github.com/Victormartinsilva/world-cup-2026-analytics)** | Pipeline ETL ponta a ponta da Copa do Mundo 2026: ingestão de fontes públicas, camadas Medallion e dashboard com mapas, rankings e análise do Brasil. | Python · dbt · DuckDB · Streamlit · Docker |
+| **[IntegraGov](https://github.com/Victormartinsilva/IntegraGov)** · [app online](https://integragov.streamlit.app/) | Integra e cruza bases públicas brasileiras (IBGE, saúde, educação) por código de município, em arquitetura Lakehouse, com dashboard e mapa. | Python · Pandas · Streamlit |
+| **[ML Educativo Hub](https://github.com/Victormartinsilva/ml-educativo-hub)** | Seis projetos práticos de Machine Learning, um algoritmo por projeto: reforço, árvore de decisão, redes neurais, Transformers e DQN. | Python · ML |
+| **[Chat Bot Consulta Dados](https://github.com/Victormartinsilva/Chat_Bot_Consulta_Dados)** | Consulta de arquivos CSV e Excel em linguagem natural, sem escrever código. Funciona com OpenAI, Gemini ou Ollama. | Python · LangChain · Streamlit |
+| **[Painel Power BI Responsivo](https://github.com/Victormartinsilva/aplicacao_reponsivel_painel_bi)** | Embute painéis do Power BI de forma responsiva, com indicador de desktop ou celular. | Python · Streamlit · Power BI |
+| **[Dashboard de Governança de Dados](https://github.com/Victormartinsilva/dash_governanca_chatbot)** | Dashboard de governança com chatbot para consultar os indicadores. | Python |
+| **[MODS-CLAUDECODE](https://github.com/Victormartinsilva/MODS-CLAUDECODE)** | Marketplace de mods do Claude Code com instalação em um passo e guia em vídeo em português. | PowerShell · Bash · HTML |
 
-        ### Plataformas & Cloud
-        ![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-        ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-        ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-        ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+## Tecnologias
 
-        ### Engenharia de Dados
-        ![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
-        ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
-        ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-        ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-        ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-        **Stack principal:** ETL · Phipelines · Medallion · Lakehouse · Warehouse · Dashboards · Previsao (series temporais)
+## Linguagens mais usadas
 
-        ---
+<div align="center">
 
-        ## Projetos em destaque
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Victormartinsilva&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&locale=pt-br)
 
-        | Projeto | Descricao | Stack |
-        |---------|-----------|-------|
-        | **[Chat Bot Governança](https://github.com/Victormartinsilva/Chat_Bot)** | Chatbot web com Flask e IA para governança de dados. | Python · Flask |
-        | **[SQL Mystery Game](https://github.com/Victormartinsilva/SQL_misterios_game)** | Jogo educativo interativo para aprender SQL: SELECT, JOIN, GROUP BY e Subqueries. | Python · SQLite |
-        | **[IntegraGov](https://github.com/Victormartinsilva/IntegraGov)** | Integracao de dados publicos brasileiros (IBGE, saude) - Data Lakehouse e dashboard Streamlit. | Python · Pandas · Streamlit |
-        | **[Chat Bot Consulta Dados](https://github.com/Victormartinsilva/Chat_Bot_Consulta_Dados)** | Chatbot com LangChain e Pandas para consulta em linguagem natural sobre arquivos de dados. | Python · LangChain |
-        | **[Data Engineering Portfolio](https://github.com/Victormartinsilva/data-engineering-portfolio)** | Portfolio de projetos de engenharia de dados com site moderno. | Astro · Tailwind |
-        | **[ML Educativo Hub](https://github.com/Victormartinsilva/ml-educativo-hub)** | Hub com 6 projetos práticos de ML: Reforço, Árvore de Decisão, Redes Neurais, Transformers e DQN. | Python · Pandas · Fabric |
-        | **[Power BI Responsivo](https://github.com/Victormartinsilva/aplicacao_reponsivel_painel_bi)** | Aplicação Streamlit para embed e responsividade de painéis Power BI em dispositivos móveis. | Python · Power BI |
+</div>
 
-        ---
+---
 
-        ## Estatisticas do GitHub
+<div align="center">
 
-        <div align="center">
+*Transformando dados brutos em pipelines confiáveis, dashboards inteligentes e decisões baseadas em previsão.*
 
-        ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Victormartinsilva&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&locale=pt-br)
-
-        ![GitHub Streak](https://streak-stats.demolab.com?user=Victormartinsilva&theme=tokyonight&hide_border=true&locale=pt_BR)
-
-        ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Victormartinsilva&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&locale=pt-br)
-
-        ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Victormartinsilva&theme=tokyo-night&hide_border=true&area=true)
-
-        </div>
-
-        ---
-
-        ## Contato
-
-        <div align="center">
-
-        [![LinkedIn](https://img.shields.io/badge/LinkedIn-Victor_Martins_da_Silva-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-martins-da-silva-a111ba190/)
-        [![Email](https://img.shields.io/badge/Gmail-victoreagri@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victoreagri@gmail.com)
-        [![GitHub](https://img.shields.io/badge/GitHub-Victormartinsilva-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Victormartinsilva)
-
-        </div>
-
-        ---
-
-        <div align="center">
-
-        *Transformando dados brutos em pipelines confiaveis, dashboards inteligentes e decisoes baseadas em previsao.*
-
-        </div>
+</div>

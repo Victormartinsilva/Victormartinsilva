@@ -26,12 +26,12 @@ Construo **pipelines de dados** no padrão **Medallion (Bronze → Silver → Go
 
 | Projeto | O que resolve | Stack |
 |---|---|---|
+| **[Fabric Medallion Starter](https://github.com/Victormartinsilva/fabric-medallion-starter)** | Ponto de partida para Medallion no Microsoft Fabric: Bronze, Silver e Gold, quarentena com o motivo da rejeição, 12 checagens de qualidade e notebooks prontos. Dados sintéticos, 20 testes e CI. | Python · pandas · Delta · Fabric |
 | **[World Cup 2026 Analytics](https://github.com/Victormartinsilva/world-cup-2026-analytics)** | Pipeline ETL ponta a ponta da Copa do Mundo 2026: ingestão de fontes públicas, camadas Medallion e dashboard com mapas, rankings e análise do Brasil. | Python · dbt · DuckDB · Streamlit · Docker |
 | **[IntegraGov](https://github.com/Victormartinsilva/IntegraGov)** · [app online](https://integragov.streamlit.app/) | Integra e cruza bases públicas brasileiras (IBGE, saúde, educação) por código de município, em arquitetura Lakehouse, com dashboard e mapa. | Python · Pandas · Streamlit |
 | **[ML Educativo Hub](https://github.com/Victormartinsilva/ml-educativo-hub)** | Seis projetos práticos de Machine Learning, um algoritmo por projeto: reforço, árvore de decisão, redes neurais, Transformers e DQN. | Python · ML |
 | **[Chat Bot Consulta Dados](https://github.com/Victormartinsilva/Chat_Bot_Consulta_Dados)** | Consulta de arquivos CSV e Excel em linguagem natural, sem escrever código. Funciona com OpenAI, Gemini ou Ollama. | Python · LangChain · Streamlit |
 | **[Data Engineering Portfolio](https://github.com/Victormartinsilva/data-engineering-portfolio)** | Meu portfólio de Engenharia de Dados em site próprio, com projetos de Python, SQL, Power BI, Microsoft Fabric e ETL Medallion. | Astro · Tailwind |
-| **[MODS-CLAUDECODE](https://github.com/Victormartinsilva/MODS-CLAUDECODE)** | Marketplace de mods do Claude Code com instalação em um passo e guia em vídeo em português. | PowerShell · Bash · HTML |
 
 ## Tecnologias
 

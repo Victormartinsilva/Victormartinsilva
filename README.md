@@ -30,8 +30,7 @@ Construo **pipelines de dados** no padrão **Medallion (Bronze → Silver → Go
 | **[IntegraGov](https://github.com/Victormartinsilva/IntegraGov)** · [app online](https://integragov.streamlit.app/) | Integra e cruza bases públicas brasileiras (IBGE, saúde, educação) por código de município, em arquitetura Lakehouse, com dashboard e mapa. | Python · Pandas · Streamlit |
 | **[ML Educativo Hub](https://github.com/Victormartinsilva/ml-educativo-hub)** | Seis projetos práticos de Machine Learning, um algoritmo por projeto: reforço, árvore de decisão, redes neurais, Transformers e DQN. | Python · ML |
 | **[Chat Bot Consulta Dados](https://github.com/Victormartinsilva/Chat_Bot_Consulta_Dados)** | Consulta de arquivos CSV e Excel em linguagem natural, sem escrever código. Funciona com OpenAI, Gemini ou Ollama. | Python · LangChain · Streamlit |
-| **[Painel Power BI Responsivo](https://github.com/Victormartinsilva/aplicacao_reponsivel_painel_bi)** | Embute painéis do Power BI de forma responsiva, com indicador de desktop ou celular. | Python · Streamlit · Power BI |
-| **[Dashboard de Governança de Dados](https://github.com/Victormartinsilva/dash_governanca_chatbot)** | Dashboard de governança com chatbot para consultar os indicadores. | Python |
+| **[Data Engineering Portfolio](https://github.com/Victormartinsilva/data-engineering-portfolio)** | Meu portfólio de Engenharia de Dados em site próprio, com projetos de Python, SQL, Power BI, Microsoft Fabric e ETL Medallion. | Astro · Tailwind |
 | **[MODS-CLAUDECODE](https://github.com/Victormartinsilva/MODS-CLAUDECODE)** | Marketplace de mods do Claude Code com instalação em um passo e guia em vídeo em português. | PowerShell · Bash · HTML |
 
 ## Tecnologias

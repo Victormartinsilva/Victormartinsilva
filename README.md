@@ -2,12 +2,11 @@
 
 # Victor Martins da Silva
 
-**Engenheiro de Dados** · Python · SQL · Power BI · Microsoft Fabric
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Engenheiro+de+Dados+%F0%9F%9A%80;ETL+%7C+Microsoft+Fabric+%7C+Power+BI;Pipelines+%E2%80%A2+Lakehouse+%E2%80%A2+Dashboards;Transformando+dados+em+decis%C3%B5es+%F0%9F%93%8A)](https://git.io/typing-svg)
 
-Pipelines confiáveis, dashboards claros e decisões baseadas em dados.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Victor_Martins_da_Silva-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-martins-da-silva-a111ba190/)
-[![E-mail](https://img.shields.io/badge/E--mail-victoreagri@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victoreagri@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=Victormartinsilva&color=58A6FF&style=flat-square&label=Visitas+ao+perfil)](https://github.com/Victormartinsilva)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-martins-da-silva-a111ba190/)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:victoreagri@gmail.com)
 
 </div>
 
